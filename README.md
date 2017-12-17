@@ -2,7 +2,7 @@
 
 yum -y install wget
 
-wget https://github.com/axangah/AUTOSCRIPT/blob/master/ovzinstall.sh
+wget https://raw.githubusercontent.com/axangah/AUTOSCRIPT/master/ovzinstall.sh
 
 chmod +x ovzinstall.sh
 
